@@ -2,7 +2,7 @@
 
 ### Saludo
 
-Holas! Me conocen como User Maldito, pero me puedes llamar User. 
+Hola! Me conocen como User Maldito, pero me puedes llamar User. 
 
 ### Cosas de mi (?)
 
