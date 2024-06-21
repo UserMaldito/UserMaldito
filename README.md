@@ -12,12 +12,13 @@ Estudios:
   3. Marketing Digital
 
 ## - Tecnologías que ha usado (Lenguajes y Frameworks)
-  1. HTML
+  1. HTML5 & XML + DTD
   2. CSS (puro, SASS, LESS, Bootstrap and Tailwind)
   3. JavaScript (puro, node.js, Angular.js, TypeScript)
   4. SQL (MySQL)
   5. PHP (puro, Laravel)
   6. C# (puro, Razor, Blazor, .NET Core)
+  7. 7. Java (puro, Servlets, Spring + Hibernate)
   
 
 <!--
