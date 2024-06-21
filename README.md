@@ -11,7 +11,7 @@ Hola! Me conocen como User Maldito, pero me puedes llamar User.
   2. CFGS Desarrollo de Aplicaciones Web
   3. Marketing Digital
 
-### - Tecnologías que ha usado (Lenguajes Librerías y Frameworks)
+### - Tecnologías que ha usado (Lenguajes, Librerías y Frameworks)
   1. HTML5 & XML + DTD
   2. CSS (puro, SASS, LESS, Bootstrap y Tailwind)
   3. JavaScript (puro, node.js, Angular.js, TypeScript y Masonry)
