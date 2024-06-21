@@ -18,7 +18,16 @@ Estudios:
   4. SQL (MySQL)
   5. PHP (puro, Laravel)
   6. C# (puro, Razor, Blazor, .NET Core)
-  7. 7. Java (puro, Servlets, Spring + Hibernate)
+  7. Java (puro, Servlets, Spring + Hibernate)
+  8. Controles de Versiones Offline/Online (Git, GitHub, Bitbucket, GitLab, ...)
+  9. Despliegue de Aplicaciones (Uso del FTP, Nginx, Apache, Docker + Dockerfile + Docker-Compose, Kubernetes [K8] y manejo de clústeres, ...)
+  10. Validadores de Estructura y Sintaxis HTML5 & CSS3 (W3C Validator) para la accesibilidad de la web
+  11. 
+
+## Modelos de Trabajo
+  1. Pseudocódigo (perfecto para empezar a programar)
+  2. Variables Significativas
+  3. Funciones
   
 
 <!--
